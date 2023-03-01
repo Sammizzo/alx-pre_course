@@ -1,1 +1,1 @@
-js/main.js
+c/c_is_fun.c
